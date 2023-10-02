@@ -1,0 +1,11 @@
+{
+  "name": "repo-scripts",
+  "version": "100.0",
+  "scripts": {
+    "change-freeze": "node ./scripts/change-freeze.js"
+  },
+  "author": "Nicholas Griffin",
+  "dependencies": {
+    "@octokit/core": "5.0.1"
+  }
+}
